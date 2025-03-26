@@ -9,7 +9,7 @@ management:
         include: health,info
 
 coach:
-  name: Mickey mouse123
+  name: Mickey mouse12345
 
 team:
   name: Montreal Canadiens
