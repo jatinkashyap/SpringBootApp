@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: SpringBootApp
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+
+coach:
+  name: Mickey mouse
+
+team:
+  name: Montreal Canadiens
